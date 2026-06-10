@@ -1,7 +1,13 @@
+![Excel](https://img.shields.io/badge/Tool-Excel-green)
+![Python](https://img.shields.io/badge/Language-Python-blue)
+![Status](https://img.shields.io/badge/Project-Completed-success)
 # Crypto-Currency-Market-Analysis-Dashboard
 
 ## Project Overview
-This project focuses on cryptocurrency market analysis using Microsoft Excel dashboards and Python-based web scraping techniques. Real-time cryptocurrency data was collected from CoinMarketCap and transformed into interactive dashboards for visualization and analytical insights.
+This project focuses on cryptocurrency market analysis using Microsoft Excel dashboards and Python-based web scraping techniques. Real-time cryptocurrency data was collected from CoinMarketCap and transformed into interactive dashboards for visualization and analytical insights. The complete project report containing dashboard screenshots, analysis, methodology, and insights has been included in the repository as project_report.pdf.
+
+## Data Collection
+The cryptocurrency dataset was collected from CoinMarketCap using Python web scraping with requests, BeautifulSoup, and pandas libraries. The extracted dataset was cleaned and transformed before being used for dashboard analysis in Excel.
 
 ## Features
 * Interactive Excel Dashboards
